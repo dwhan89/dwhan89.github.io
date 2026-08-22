@@ -4,11 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Dongwon
-middle_name: "'DW'"
+middle_name: 
 last_name: Han
 email: dwhan89@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal site of Dongwon 'DW' Han — Applied AI/ML at J.P. Morgan, PhD in computational physics.
+  Personal site of Dongwon Han — Applied AI/ML at J.P. Morgan, PhD in computational physics.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -80,7 +80,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: "DW's notes"  # your blog must have a name for it to show up in the nav bar
+blog_name: "DH's notes"  # your blog must have a name for it to show up in the nav bar
 blog_description: cosmology, astrophysics, computing and misc.
 permalink: /blog/:year/:title/
 
