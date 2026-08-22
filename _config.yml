@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Dongwon
 middle_name: "'DW'"
 last_name: Han
-email: dongwon.han@stonybrook.edu
+email: dwhan89@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A personal blog of Dongwon 'DW' Han. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal site of Dongwon 'DW' Han — Applied AI/ML at J.P. Morgan, PhD in computational physics.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -60,7 +60,7 @@ orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Dongwon-dw-Han # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -189,6 +189,9 @@ scholar:
 
   style: american-physics-society
   locale: en
+
+  sort_by: year
+  order: descending
 
   source: /_bibliography/
   bibliography: papers.bib

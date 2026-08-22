@@ -2,21 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: Postdoctoral researcher at <a href="https://www.damtp.cam.ac.uk/">DAMTP, U. Cambridge (UK)</a>
+description: Applied AI/ML @ <a href="https://www.jpmorgan.com/">J.P. Morgan</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Department of Applied Mathematics and Theoretical Physics (DAMTP)</p>
-    <p>University of Cambridge</p>
-    <p>CMS, Wilberforce Rd, Cambridge, CB3 0WA</p>
-    <p>dh689[at]cam.ac.uk</p>
+    <p>Applied AI/ML — Machine Learning Engineering</p>
+    <p>J.P. Morgan</p>
+    <p>London, United Kingdom</p>
+    <p>dwhan89[at]gmail.com</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at University of Cambridge with interest in both cosmology and extragalactic astrophysics. One of my current research focus is analyzing the current and upcoming the cosmic microwave background (CMB) data.  I worked on many aspects of CMB data analysis, from generating simulations to investigating systematics bias. Recently, I have also been interested in applying Machine Learning in Cosmology and Astrophysics.
+I work in Applied AI/ML at J.P. Morgan, building and deploying robust, scalable machine learning systems. I am PhD-trained in computational physics, with a background in probabilistic modelling, simulation-based inference, uncertainty estimation, and high-performance computing.
+
+My interests span simulation-driven, probabilistic, and multimodal machine learning, particularly for complex decision-making under uncertainty. Before moving into industry, I worked on cosmic microwave background (CMB) data analysis as a member of the Atacama Cosmology Telescope (ACT) and Simons Observatory (SO) collaborations, and as a postdoctoral researcher at the University of Cambridge (DAMTP) — see my [experience](/experience/) and [publications](/publications/) for more.
 
