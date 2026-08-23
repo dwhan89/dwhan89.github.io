@@ -3,13 +3,14 @@
 ---
 @charset "utf-8";
 
+@use "themes";
+@use "layout";
+@use "base";
+@use "distill";
+
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
-@import
-  "variables",
-  "themes",
-  "layout",
-  "base",
-  "distill"
-;
+.container {
+  max-width: $max-content-width;
+}

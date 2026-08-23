@@ -73,8 +73,8 @@ rss_icon: true
 contact_note: >
     The best way to reach me is via email.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+google_analytics: # your google-analytics code
+panelbear_analytics: # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -89,7 +89,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: dwhan89 # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------

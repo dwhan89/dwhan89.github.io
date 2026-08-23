@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-08-01 09:00:00-0000
+date: 2021-12-15 09:00:00-0000
 inline: true
 ---
 
-Started a new role in Applied AI/ML — Machine Learning Engineering at **J.P. Morgan** in London.
+Started a postdoctoral research position at the **University of Cambridge** (DAMTP).
